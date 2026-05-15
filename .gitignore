@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+.env
+
+# Data (Ignore local parquet files)
+data/bronze/
+data/silver/
+data/gold/
+
+# IDEs
+.vscode/
+.idea/
